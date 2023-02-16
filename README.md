@@ -10,3 +10,6 @@ that you can't modify the content of one block inside the chain, otherwise the r
 wrong.
 
 note that it's an original idea by the creator.
+
+
+this app was hosted on netfly:  blockchain-demonstration.netlify.app
