@@ -12,4 +12,4 @@ wrong.
 note that it's an original idea by the creator.
 
 
-this app was hosted on netfly:  blockchain-demonstration.netlify.app
+this app was hosted on netfly:  https://blockchain-demonstration.netlify.app/
